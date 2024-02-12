@@ -12,6 +12,7 @@
 		C7D8AAE02B7A6F3F00681CB2 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D8AADF2B7A6F3F00681CB2 /* MainViewController.swift */; };
 		C7D8AAE52B7A6F4100681CB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7D8AAE42B7A6F4100681CB2 /* Assets.xcassets */; };
 		C7D8AAE82B7A6F4100681CB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7D8AAE62B7A6F4100681CB2 /* LaunchScreen.storyboard */; };
+		C7D8AAF02B7A71D400681CB2 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D8AAEF2B7A71D400681CB2 /* CustomButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C7D8AAE42B7A6F4100681CB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7D8AAE72B7A6F4100681CB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7D8AAE92B7A6F4100681CB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7D8AAEF2B7A71D400681CB2 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C7D8AADB2B7A6F3F00681CB2 /* AppDelegate.swift */,
 				C7D8AADD2B7A6F3F00681CB2 /* SceneDelegate.swift */,
 				C7D8AADF2B7A6F3F00681CB2 /* MainViewController.swift */,
+				C7D8AAEF2B7A71D400681CB2 /* CustomButton.swift */,
 				C7D8AAE42B7A6F4100681CB2 /* Assets.xcassets */,
 				C7D8AAE62B7A6F4100681CB2 /* LaunchScreen.storyboard */,
 				C7D8AAE92B7A6F4100681CB2 /* Info.plist */,
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7D8AAF02B7A71D400681CB2 /* CustomButton.swift in Sources */,
 				C7D8AAE02B7A6F3F00681CB2 /* MainViewController.swift in Sources */,
 				C7D8AADC2B7A6F3F00681CB2 /* AppDelegate.swift in Sources */,
 				C7D8AADE2B7A6F3F00681CB2 /* SceneDelegate.swift in Sources */,
